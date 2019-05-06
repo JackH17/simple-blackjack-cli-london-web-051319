@@ -50,6 +50,7 @@ def invalid_command
 input = get_user_input
 
 if input != "h" || "s"
+  puts 
 end
 
 #####################################################
