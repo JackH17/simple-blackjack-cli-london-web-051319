@@ -28,7 +28,7 @@ end
 def initial_round
   sum = deal_card + deal_card
   display_card_total(sum)
-  return
+  return sum 
 end
 
 def hit?
