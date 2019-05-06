@@ -19,8 +19,8 @@ def get_user_input
   method = gets.chomp 
 end
 
-def end_game
-  # code #end_game here
+def end_game(number)
+  if number >= 
 end
 
 def initial_round
