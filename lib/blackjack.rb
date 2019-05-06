@@ -50,7 +50,11 @@ def invalid_command
 input = get_user_input
 
 if input != "h" || "s"
-  puts 
+  puts "Please enter a valid command"
+  return current_total
+end 
+
+prompt_user
 end
 
 #####################################################
