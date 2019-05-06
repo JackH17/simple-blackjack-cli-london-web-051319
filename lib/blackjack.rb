@@ -47,7 +47,7 @@ def hit?(current_total)
 end
 
 def invalid_command
-  # code invalid_command here
+
 end
 
 #####################################################
